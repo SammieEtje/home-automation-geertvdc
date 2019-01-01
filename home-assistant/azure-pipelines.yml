@@ -1,7 +1,7 @@
 resources:
 - repo: self
 queue:
-  name: home-automation
+  name: default
 
 trigger:
   branches:

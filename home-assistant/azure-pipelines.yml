@@ -1,7 +1,7 @@
 resources:
 - repo: self
 queue:
-  name: default
+  name: Default
 
 trigger:
   branches:
